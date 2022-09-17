@@ -1,0 +1,36 @@
+C:\Users\diani\source\repos\Transformacion\Transformacion\bin\Debug\Transformacion.exe.config
+C:\Users\diani\source\repos\Transformacion\Transformacion\bin\Debug\Transformacion.exe
+C:\Users\diani\source\repos\Transformacion\Transformacion\bin\Debug\Transformacion.pdb
+C:\Users\diani\source\repos\Transformacion\Transformacion\bin\Debug\Transformacion.xml
+C:\Users\diani\source\repos\Transformacion\Transformacion\obj\Debug\Transformacion.vbprojAssemblyReference.cache
+C:\Users\diani\source\repos\Transformacion\Transformacion\obj\Debug\Transformacion.Form1.resources
+C:\Users\diani\source\repos\Transformacion\Transformacion\obj\Debug\Transformacion.Resources.resources
+C:\Users\diani\source\repos\Transformacion\Transformacion\obj\Debug\Transformacion.vbproj.GenerateResource.cache
+C:\Users\diani\source\repos\Transformacion\Transformacion\obj\Debug\Transformacion.exe
+C:\Users\diani\source\repos\Transformacion\Transformacion\obj\Debug\Transformacion.xml
+C:\Users\diani\source\repos\Transformacion\Transformacion\obj\Debug\Transformacion.pdb
+C:\Users\diani\source\repos\Transformacion\Transformacion\obj\Debug\Transformacion.Form2.resources
+E:\UNIVERSIDAD\Tercer Semestre\ALGEBRA LINEAL\Transformacion\Transformacion\bin\Debug\Transformacion.exe.config
+E:\UNIVERSIDAD\Tercer Semestre\ALGEBRA LINEAL\Transformacion\Transformacion\bin\Debug\Transformacion.exe
+E:\UNIVERSIDAD\Tercer Semestre\ALGEBRA LINEAL\Transformacion\Transformacion\bin\Debug\Transformacion.pdb
+E:\UNIVERSIDAD\Tercer Semestre\ALGEBRA LINEAL\Transformacion\Transformacion\bin\Debug\Transformacion.xml
+E:\UNIVERSIDAD\Tercer Semestre\ALGEBRA LINEAL\Transformacion\Transformacion\obj\Debug\Transformacion.vbprojAssemblyReference.cache
+E:\UNIVERSIDAD\Tercer Semestre\ALGEBRA LINEAL\Transformacion\Transformacion\obj\Debug\Transformacion.Form1.resources
+E:\UNIVERSIDAD\Tercer Semestre\ALGEBRA LINEAL\Transformacion\Transformacion\obj\Debug\Transformacion.Form2.resources
+E:\UNIVERSIDAD\Tercer Semestre\ALGEBRA LINEAL\Transformacion\Transformacion\obj\Debug\Transformacion.Resources.resources
+E:\UNIVERSIDAD\Tercer Semestre\ALGEBRA LINEAL\Transformacion\Transformacion\obj\Debug\Transformacion.vbproj.GenerateResource.cache
+E:\UNIVERSIDAD\Tercer Semestre\ALGEBRA LINEAL\Transformacion\Transformacion\obj\Debug\Transformacion.exe
+E:\UNIVERSIDAD\Tercer Semestre\ALGEBRA LINEAL\Transformacion\Transformacion\obj\Debug\Transformacion.xml
+E:\UNIVERSIDAD\Tercer Semestre\ALGEBRA LINEAL\Transformacion\Transformacion\obj\Debug\Transformacion.pdb
+D:\UNIVERSIDAD\Tercer Semestre\ALGEBRA LINEAL\Transformacion\Transformacion\bin\Debug\Transformacion.exe.config
+D:\UNIVERSIDAD\Tercer Semestre\ALGEBRA LINEAL\Transformacion\Transformacion\bin\Debug\Transformacion.exe
+D:\UNIVERSIDAD\Tercer Semestre\ALGEBRA LINEAL\Transformacion\Transformacion\bin\Debug\Transformacion.pdb
+D:\UNIVERSIDAD\Tercer Semestre\ALGEBRA LINEAL\Transformacion\Transformacion\bin\Debug\Transformacion.xml
+D:\UNIVERSIDAD\Tercer Semestre\ALGEBRA LINEAL\Transformacion\Transformacion\obj\Debug\Transformacion.vbprojAssemblyReference.cache
+D:\UNIVERSIDAD\Tercer Semestre\ALGEBRA LINEAL\Transformacion\Transformacion\obj\Debug\Transformacion.Form1.resources
+D:\UNIVERSIDAD\Tercer Semestre\ALGEBRA LINEAL\Transformacion\Transformacion\obj\Debug\Transformacion.Form2.resources
+D:\UNIVERSIDAD\Tercer Semestre\ALGEBRA LINEAL\Transformacion\Transformacion\obj\Debug\Transformacion.Resources.resources
+D:\UNIVERSIDAD\Tercer Semestre\ALGEBRA LINEAL\Transformacion\Transformacion\obj\Debug\Transformacion.vbproj.GenerateResource.cache
+D:\UNIVERSIDAD\Tercer Semestre\ALGEBRA LINEAL\Transformacion\Transformacion\obj\Debug\Transformacion.exe
+D:\UNIVERSIDAD\Tercer Semestre\ALGEBRA LINEAL\Transformacion\Transformacion\obj\Debug\Transformacion.xml
+D:\UNIVERSIDAD\Tercer Semestre\ALGEBRA LINEAL\Transformacion\Transformacion\obj\Debug\Transformacion.pdb
